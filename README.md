@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-I am a Mexican programming enthusiast, with the spirit of sharing knowledge and collaborating on computational projects.
+I am a student programming, with the spirit of sharing knowledge and collaborating on computational projects.
 
 ## 📬 Get in touch
 
