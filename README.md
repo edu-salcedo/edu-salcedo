@@ -22,7 +22,12 @@ I am a student programming, with the spirit of sharing knowledge and collaborati
 
 ## 📬 Get in touch
 
-
+## Table of Contents
+1. [General Info](#general-info)
+2. [Technologies](#technologies)
+3. [Installation](#installation)
+4. [Collaboration](#collaboration)
+5. [FAQs](#faqs)
 
 ## &#x1f4c8; My GitHub Stats
 
